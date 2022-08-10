@@ -7,10 +7,10 @@ div{
     text-align: center;
 }
 #nombre{
-    font-size: 17px;
+    font-size: 18px;
     font-weight: bold;
     margin-top: 20%;
-    margin-left: 5px;
+    margin-left: 3px;
 }
 @media (min-width: 576px){
     #fotoperfil {
