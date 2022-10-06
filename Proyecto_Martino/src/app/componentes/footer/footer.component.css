@@ -1,0 +1,10 @@
+div{
+    text-align: center;
+    padding-top: 5px;
+    background-color:rgb(27, 32, 48);
+    color: beige;
+    font-size: 14px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 2px -2px 5px rgb(156, 154, 154);
+}
